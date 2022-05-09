@@ -31,3 +31,8 @@
 
 
 In my opinion we can go with D2 org charts as it is a highly customized library and it can fulfill almost all of our requriments.
+
+## Requried things in backend response
+- id
+- parent id
+- other employee details.
