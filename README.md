@@ -11,7 +11,7 @@
 
 ## What we cannot do ? (in hack weeks)
 - Hightlight Path for current employees (Comusmes alot of time. There is no easy way to do that i think)
-- - Basic ability to filter results
+- Basic ability to filter results
 - Being able to decide whether or not to use the organization chart feature (if company has bad data for departments or reports to they may wish to disable usage until its cleaned up)
 - Being able to view in diagram forms which departments are part of which office (if multiple offices)
 - Being able to export the organization diagram to share with other parties (Needs some more research. Maybe it can be done)
