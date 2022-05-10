@@ -36,3 +36,61 @@ In my opinion we can go with D2 org charts as it is a highly customized library 
 - id
 - parent id
 - other employee details.
+
+
+
+
+
+### Some more findings 
+
+
+1. React org charts
+ - Advantages 
+	 - Basic chart
+	 - Supports React Component
+- Disadvantages
+	 - Needed nested data.
+	 - Not expandable or scalable.
+ 
+
+ 2. D3 org chart
+ - Advantages
+ 	- Advance chart.
+	- expandable, zoomable
+ - Disadvantages
+ 	- Doesn't support React Component uses plain html as string for node.
+ 
+ 
+ 3. Gojs
+ - Advantages
+ 	- Advance chart.
+ 	- zoomable
+ 	- Highly Customizable in sense of ui.
+
+- Disadvantages
+	- Needs license
+	- Doesn't support React Component as node.
+	- not expandable.
+	
+4. @unicef/react-org-chart
+- Advantages
+	- Simple Chart
+	- Have lazy loading for parent, child and avatar.
+	- Have extended and zoom feature.
+	- Have image and pdf export feature.
+
+- Disadvantages
+	- Not cutomizable in sense of UI.
+	- Needed nested data for preloading.
+	- Not sure about typescript support
+	
+	
+5. Syncfusion
+- Advantage
+	- Advance Chart
+	- Have zoom feature
+
+- DisAdvantate
+	- Doesnot support React component as node.
+	- Bit complex to customize ui.
+	- Not sure about expandable feature.
